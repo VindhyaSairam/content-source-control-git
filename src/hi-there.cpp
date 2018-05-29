@@ -7,7 +7,7 @@ using namespace std;
 
 int main()
 {
-	cout << "Hi there!  Welcome to Linux Academy!" << endl;
+	cout << "Hi there!  Welcome" << endl;
 	return 0;
 }
 
