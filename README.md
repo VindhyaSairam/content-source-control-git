@@ -19,3 +19,4 @@ PracticeGit for for testing push. whether it updates the same branch or master b
 
 
 new update for practicing git fetch
+new update for git push
