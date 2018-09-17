@@ -18,3 +18,4 @@ PracticeGit on local for push command
 PracticeGit for testing push. whether it updates the same branch or master branch?
 
 new update for pushing
+created a new branch release2.0. making updates and pushing the updates into remote by creating new branch "release2.0" in remote repo 
