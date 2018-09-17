@@ -18,4 +18,4 @@ PracticeGit on local for push command
 PracticeGit for for testing push. whether it updates the same branch or master branch?
 
 
-new updatesssssssss for practicing git fetch
+new update for practicing git fetch
