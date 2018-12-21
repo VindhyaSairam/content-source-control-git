@@ -7,3 +7,4 @@ first edit
 changing content for git fetch
 changing content for git pull
 changing for pushing
+changing for pushing into release3.0
